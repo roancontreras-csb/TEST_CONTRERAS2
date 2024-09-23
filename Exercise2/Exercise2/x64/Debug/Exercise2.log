@@ -1,0 +1,3 @@
+﻿  Exercise2.cpp
+C:\Users\roan\Documents\GitHub\TEST_CONTRERAS2\Exercise2\Exercise2\Exercise2.cpp(28,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Exercise2.vcxproj -> C:\Users\roan\Documents\GitHub\TEST_CONTRERAS2\Exercise2\x64\Debug\Exercise2.exe
